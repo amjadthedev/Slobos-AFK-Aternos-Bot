@@ -1,7 +1,7 @@
 {
   "name": "Water MC Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Water MC",
     "password": "",
     "type": "offline"
   },
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Please Invite Your Freinds!!",
+        "Thanks for Playing!!",
         "I like to play Minecraft!"
       ]
     },
