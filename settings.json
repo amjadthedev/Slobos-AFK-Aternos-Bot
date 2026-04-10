@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Water MC Bot",
   "bot-account": {
     "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "watermc102.aternos.me",
+    "port": 48772,
     "version": "",
     "try-creative": false
   },
